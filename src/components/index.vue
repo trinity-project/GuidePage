@@ -33,25 +33,25 @@ export default {
     return {
       GuidesList:[
         {
-          link:"https://www.baidu.com",
+          link:"http://twallet.trinity.ink:8034/",
           img:"static/img/Wallet.jpeg",
           title:"Trnity Wallet",
           content:"The Trinity state channel wallet is used to transfer on chain the state channel and to realize the off chain transactions."
         },
         {
-          link:"https://www.baidu.com",
+          link:"http://tstore.trinity.ink:8036/",
           img:"static/img/TStore.jpg",
           title:"T Store",
           content:"Trinity Online Experience Store is designed to provide users with a practical experience of state channel payment functionality."
         },
         {
-          link:"https://www.baidu.com",
+          link:"http://tfaucet.trinity.ink:8033/",
           img:"static/img/Faucet.jpeg",
           title:"Faucet",
           content:"The TNC faucet is based on NEO TestNet, which is designed for that everyone can try to use TNC on NEO TestNet."
         },
         {
-          link:"https://www.baidu.com",
+          link:"http://texplorer.trinity.ink:8035/",
           img:"static/img/NetworkExplorer.jpeg",
           title:"Network Explorer",
           content:"The Trinity state channel wallet is used to transfer on chain the state channel and to realize the off chain transactions."

@@ -1,13 +1,13 @@
 <template>
   <el-menu class="el-menu-demo navBox" mode="horizontal">
-    <el-menu-item style="width: 20%;">
+    <el-menu-item style="width: 10%;">
 
     </el-menu-item>
-    <el-menu-item style="width: 60%;">
+    <el-menu-item style="width: 80%;">
       <img src="./../assets/logo.png" alt="">
       <h1>{{ title }}</h1>
     </el-menu-item>
-    <el-menu-item style="width: 20%;">
+    <el-menu-item style="width: 10%;">
       <h2>Help</h2>
     </el-menu-item>
   </el-menu>
